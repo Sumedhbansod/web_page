@@ -1,3 +1,3 @@
-# zul-m.github.io
+# Webpage Development
 
-My personal website
+My personal webpage
